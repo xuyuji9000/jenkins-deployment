@@ -18,4 +18,4 @@ minute (from 0 to 59) hour (from 0 to 23) day of month (from 1 to 31) month (fro
 
 1. backup to external disk
 
-    `0 0 * * * /root/Workspace/jenkins-deployment/automation backup`
+    `0 0 * * * /root/Workspace/jenkins-deployment/automation.sh backup`
